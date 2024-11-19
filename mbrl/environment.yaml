@@ -1,0 +1,25 @@
+name: difftori
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pytorch=1.9
+  - torchvision
+  - cudatoolkit=11.1
+  - gym==0.21.0
+  - pip
+  - pip:
+    - termcolor
+    - omegaconf
+    # - gym==0.21.0
+    - numpy==1.23
+    - dm-control==0.0.403778684
+    - git+https://github.com/rlworkgroup/metaworld.git@master#egg=metaworld
+    - pandas
+    - wandb
+    - moviepy
+    - mujoco-py==2.1.2.14
+    - patchelf==0.15.0.0
+    - imageio
+    - theseus-ai

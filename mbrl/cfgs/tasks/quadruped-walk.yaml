@@ -1,0 +1,4 @@
+action_repeat: 4
+max_iterations: 100
+step_size: 0.0001
+damping: 0.1
