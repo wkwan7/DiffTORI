@@ -29,9 +29,11 @@ For further details on the methodology, please refer to our paper:
 If you find our work useful, please consider citing:
 
 ```bibtex
-@article{wan2024difftop,
-  title={DiffTOP: Differentiable Trajectory Optimization for Deep Reinforcement and Imitation Learning},
-  author={Wan, Weikang and Wang, Yufei and Erickson, Zackory and Held, David},
-  journal={arXiv preprint arXiv:2402.05421},
-  year={2024}
+@article{wan2025difftori,
+  title={DiffTORI: Differentiable Trajectory Optimization for Deep Reinforcement and Imitation Learning},
+  author={Wan, Weikang and Wang, Ziyu and Wang, Yufei and Erickson, Zackory and Held, David},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={109430--109459},
+  year={2025}
 }
